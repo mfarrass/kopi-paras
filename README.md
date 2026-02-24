@@ -5,6 +5,9 @@
 An Awwwards-level scrollytelling experience built with **Next.js 14**, **Framer Motion**, and **Lenis smooth scroll**.  
 Kopi Paras is a cinematic brand website exploring coffee as ritual, texture, and story.
 
+
+> “⚡Built using a modern vibe coding workflow — combining intuition, rapid iteration, and AI-assisted development.”
+
 ---
 
 ## 🎬 Live Demo
