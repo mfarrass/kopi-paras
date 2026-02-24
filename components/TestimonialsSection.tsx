@@ -53,7 +53,7 @@ export function TestimonialsSection() {
               Field notes
             </p>
             <h2 className="text-3xl md:text-4xl font-semibold tracking-tight">
-              Kopi Paras di alam liar.
+              Kopi Paras in the wild.
             </h2>
           </div>
           <div className="hidden md:flex items-center gap-2 text-xs text-kopi-cream/60">
