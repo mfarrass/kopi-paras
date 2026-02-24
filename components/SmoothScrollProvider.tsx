@@ -12,13 +12,12 @@ export function SmoothScrollProvider({ children }: Props) {
     const lenis = new Lenis({
       lerp: 0.1,
       smoothWheel: true,
-      smoothTouch: false
     });
 
-    const raf = (time: number) => {
+    function raf(time: number) {
       lenis.raf(time);
       requestAnimationFrame(raf);
-    };
+    }
 
     requestAnimationFrame(raf);
 
@@ -29,4 +28,3 @@ export function SmoothScrollProvider({ children }: Props) {
 
   return <>{children}</>;
 }
-
