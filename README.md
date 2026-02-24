@@ -12,9 +12,7 @@ Kopi Paras is a cinematic brand website exploring coffee as ritual, texture, and
 
 ## 🎬 Live Demo
 
-🌐 **Demo:**  
-👉 https://kopi-paras.vercel.app  
-
+🌐 https://kopi-paras.vercel.app  
 ---
 
 ## ✨ Features
