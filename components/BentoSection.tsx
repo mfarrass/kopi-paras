@@ -51,7 +51,6 @@ export function BentoSection() {
           <h2 className="text-3xl md:text-4xl font-semibold tracking-tight">
             Dibuat seperti sebuah sistem desain,
             <span className="block text-kopi-gold">terasa seperti sebuah surat cinta.
-sssadaads
             </span>
           </h2>
         </div>
