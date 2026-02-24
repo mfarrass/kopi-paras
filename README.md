@@ -40,26 +40,6 @@ Kopi Paras is a cinematic brand website exploring coffee as ritual, texture, and
 
 ---
 
-## 📁 Project Structure
-
-```
-app/
-├─ layout.tsx
-├─ page.tsx
-components/
-├─ SequenceScroll.tsx
-├─ AboutSection.tsx
-├─ BentoSection.tsx
-├─ StatsSection.tsx
-├─ TestimonialsSection.tsx
-├─ CtaSection.tsx
-├─ FooterSection.tsx
-├─ Navbar.tsx
-└─ SmoothScrollProvider.tsx
-```
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone Repository
